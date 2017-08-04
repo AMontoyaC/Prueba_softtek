@@ -1,0 +1,177 @@
+/*CSS style for index.html*/
+.principal_title{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	background: #3E474F;
+}
+
+#id_blogposts,#id_usuarios,#id_user{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: black;
+	font-size: 60px;
+}
+
+
+/*CSS style for list blogposts*/
+.title_item{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	font-size: 40px;
+}
+
+.body_item{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: justify;
+	color: black;
+	font-size: 30px;
+}
+
+.user_1,.user_2,.user_3,.user_4,.user_5,.user_6,.user_7,.user_8,.user_9,.user_10{
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	height: auto;
+	width: auto;
+}
+
+.user_1{
+	background-color: #D50158;
+}
+
+.user_2{
+	background-color: #8900A6;
+}
+
+.user_3{
+	background-color: #3330A3;
+}
+
+.user_4{
+	background-color: #0071D7;
+}
+
+.user_5{
+	background-color: #0084D6;
+}
+
+.user_6{
+	background-color: #009BAA;
+}
+
+.user_7{
+	background-color: #009534;
+}
+
+.user_8{
+	background-color: #FFC100;
+}
+
+.user_9{
+	background-color: #FF7101;
+}
+
+.user_10{
+	background-color: #F92801;
+}
+
+/*Css style for list users*/
+.users{
+	margin-top: 5px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	height: auto;
+	width: auto;
+}
+
+.image_user{
+	border-radius: 50%;
+	width: 30px;
+    height: 30px;
+    margin-bottom: 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: white;
+}
+
+.row_user{
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+}
+
+.row_title{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-size: 50px;
+	margin-bottom: 15px;
+}
+
+/*CSS style to see user*/
+#img{
+	border-radius: 50%;
+	width: 150px;
+    height: 150px;
+    margin-bottom: 10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: white;
+	font-size: 100px;
+}
+
+#name{
+    font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: black;
+	font-size: 40px;
+}
+
+#lbl_username,#lbl_email,#lbl_address,#lbl_city,#lbl_phone,#lbl_website,#lbl_company{
+    font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+	font-weight: bold
+}
+
+#txt_username,#txt_email,#txt_address,#txt_city,#txt_phone,#txt_website,#txt_company{
+    font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+}
+
+.ui-dialog-titlebar-close {
+    visibility: hidden;
+}
+
+#company{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: black;
+	font-size: 20px;
+	height: 200px;
+	width: 300px;
+	border:1px solid black;
+}
+
+#company_name{
+	font-size: 40px;
+}
+
+#company_name,#company_catchPhrase,#company_bs{
+	font-family: 'Open Sans Condensed', sans-serif;
+	text-align: center;
+	color: black;
+}
